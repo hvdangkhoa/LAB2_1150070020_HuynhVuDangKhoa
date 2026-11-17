@@ -1,0 +1,54 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Java Class Files
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Tệp sinh ra khi chạy ứng dụng và xuất file
+des_ciphertext.txt
+tripledes_ciphertext.txt
+aes_ciphertext.txt
+rc4_ciphertext.txt
+twofish_ciphertext.txt
+aes_ctr_ciphertext.txt
+aes_cbc_ciphertext.txt
+lab2_full_text.txt
+pages_*.txt
